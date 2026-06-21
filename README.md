@@ -3,8 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RizzoDavid&color=blue)
 
 ## About Me
-
-I'm currently a senior at Wilmington University and anticipating graduation in the summer of 2025. I am majoring in CyberSecurity with a concetration in digital forensics. I will also have a certificate in FinTech from WilmU and a certificate in CyberSecurity from UNCC. 
+MBA Cabadite UNC Pembroke
 
 
 - 📫 My preferred contact method is Signal.
