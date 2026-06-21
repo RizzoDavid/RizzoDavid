@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RizzoDavid&color=blue)
 
 ## About Me
-MBA Cabadite UNC Pembroke
+MBA Candidate UNC Pembroke
 
 
 - 📫 My preferred contact method is Signal.
