@@ -3,15 +3,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RizzoDavid&color=blue)
 
 ## About Me
-MBA Candidate UNC Pembroke
+Cybersecurity Graduate | MBA Candidate @ UNC Pembroke | Focusing on Business Analysis
 
-
-- 📫 My preferred contact method is Signal.
-- ⚡ Fun fact: I am a Photographer & Videographer
+Passionate about bridging the gap between technical security infrastructure and strategic business decision-making. I specialize in leveraging data analytics to identify vulnerabilities and optimize organizational resilience.
 
 ## Skills
 
-- **Languages**: Python, SQL, Object Oriented Programming, HTML, CSS
+- **Languages**: Go, Python, SQL, Object Oriented Programming, HTML, CSS, VBA
 - **CyberSecurity**: IAM, Auditing, Network Hardening, Physical Hardening, Cryptography, Security Operations, Vulnerability Assessment	
 - **Tools**: Wireshark, Splunk, Burp Suite, Magnet Axiom, FTK Imager, Sluethkit Autopsy, Docker
 
